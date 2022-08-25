@@ -8,4 +8,4 @@
 
 ### Deploy To Heroku. 
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://www.heroku.com/deploy?template=https://github.com/DX-Bots/RENAMER-BOT)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://www.heroku.com/deploy?template=https://github.com/mubi3039/Renamer-Bot)
